@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "https://events.tomburke.com/*"
+  to = "https://legionfilms.com/:splat"
+  status = 200
+  force = true
+  
